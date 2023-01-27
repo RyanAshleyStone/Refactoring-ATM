@@ -1,2 +1,2 @@
 # Refactoring-ATM
-Refactoring an ATM with React Web Components
+This code is about recreating an interactive page of an ATM with React Web Components. Utilizing useState to store values locally instead of globally. This was a great exercise in understanding React Hooks and state, and breaking down what the code is doing piece by piece. I did as suggested to us, which was to make the user unable to withdraw more money than is curretnly in the account. 
